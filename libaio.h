@@ -27,8 +27,6 @@
 extern "C" {
 #endif
 
-#include <sys/types.h>
-#include <string.h>
 
 struct timespec;
 struct sockaddr;
